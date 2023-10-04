@@ -1,0 +1,43 @@
+11:05:00.185 [TestNG-tests-1] INFO  - Launching the Chrome browser
+11:05:00.185 [TestNG-tests-1] INFO  - Taking Amazon URL from properties file
+11:05:00.185 [TestNG-tests-1] INFO  - Navigating to Amazon Page
+11:05:00.204 [TestNG-tests-1] INFO  - Starting the test case for unique prices list for onePlus mobiles
+11:05:15.479 [TestNG-tests-1] INFO  - Clicking the mobiles button from main bar of amazon page
+11:05:15.479 [TestNG-tests-1] INFO  - Clicking of Oneplus mobiles checkbox from mobiles checkboxes
+11:05:16.110 [TestNG-tests-1] INFO  - printing unique prices of list for OnePlus mobiles
+11:05:16.630 [TestNG-tests-1] INFO  - Quiting from Chrome driver
+11:05:31.044 [TestNG-tests-1] INFO  - Launching the Chrome browser
+11:05:31.044 [TestNG-tests-1] INFO  - Taking Amazon URL from properties file
+11:05:31.044 [TestNG-tests-1] INFO  - Navigating to Amazon Page
+11:05:31.049 [TestNG-tests-1] INFO  - Starting the test case for showing Amazon Prime page
+11:05:31.227 [TestNG-tests-1] INFO  - Showing Amazon prime dropdown
+11:05:34.600 [TestNG-tests-1] INFO  - Showing Amazon prime main page
+11:05:35.048 [TestNG-tests-1] INFO  - Quiting from Chrome driver
+11:05:48.217 [TestNG-tests-1] INFO  - Launching the Chrome browser
+11:05:48.217 [TestNG-tests-1] INFO  - Taking Amazon URL from properties file
+11:05:48.217 [TestNG-tests-1] INFO  - Navigating to Amazon Page
+11:05:48.219 [TestNG-tests-1] INFO  - Starting the First test case
+11:05:49.484 [TestNG-tests-1] INFO  - Taking Sony Bravia 55 from Excel and Entering in search box
+11:05:49.484 [TestNG-tests-1] INFO  - Searching for Sony Bravia 55
+11:05:58.609 [TestNG-tests-1] INFO  - Quiting from Chrome driver
+11:06:06.914 [TestNG-tests-1] INFO  - Launching the Chrome browser
+11:06:06.914 [TestNG-tests-1] INFO  - Taking Amazon URL from properties file
+11:06:06.914 [TestNG-tests-1] INFO  - Navigating to Amazon Page
+11:06:06.919 [TestNG-tests-1] INFO  - Starting the Second test case
+11:06:07.259 [TestNG-tests-1] INFO  - Taking Iphone 13 from Excel and Entering in search box
+11:06:07.260 [TestNG-tests-1] INFO  - Searching for IPhone 13
+11:06:12.464 [TestNG-tests-1] INFO  - Quiting from Chrome driver
+11:06:24.524 [TestNG-tests-1] INFO  - Launching the Chrome browser
+11:06:24.524 [TestNG-tests-1] INFO  - Taking Amazon URL from properties file
+11:06:24.524 [TestNG-tests-1] INFO  - Navigating to Amazon Page
+11:06:24.526 [TestNG-tests-1] INFO  - Starting the Third test case
+11:06:24.828 [TestNG-tests-1] INFO  - Taking Sony Bravia 65 from Excel and Entering in search box
+11:06:24.828 [TestNG-tests-1] INFO  - Searching for Sony Bravia 65
+11:06:34.868 [TestNG-tests-1] INFO  - Quiting from Chrome driver
+11:06:52.892 [TestNG-tests-1] INFO  - Launching the Chrome browser
+11:06:52.892 [TestNG-tests-1] INFO  - Taking Amazon URL from properties file
+11:06:52.892 [TestNG-tests-1] INFO  - Navigating to Amazon Page
+11:06:52.894 [TestNG-tests-1] INFO  - Starting the Fourth test case
+11:06:53.140 [TestNG-tests-1] INFO  - Taking NOKIA TV from Excel and Entering in search box
+11:06:53.140 [TestNG-tests-1] INFO  - Searching for NOKIA TV
+11:06:56.938 [TestNG-tests-1] INFO  - Quiting from Chrome driver
